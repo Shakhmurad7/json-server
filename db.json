@@ -1,16 +1,194 @@
 {
   "posts":[
+    { 
+      "name":"hamsi",
+      "id" : 1,
+      "title": "Interyer Dizayn",
+      "img":[
+        {
+          "img":"../img-2/Rectangle 42.jpg"
+        },
+        {
+          "img":"../img-2/img-1.jpg"
+        },
+        {
+          "img":"../img-2/img-2.jpg"
+        }
+      ]
+    },
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id" : 2,
+      "title": "Interyer Dizayn",
+      "img":[
+        {
+          "img":"../img-2/Rectangle 44.jpg"
+        },
+        {
+          "img":"../img-2/img-3.jpg"
+        },
+        {
+          "img":"../img-2/img-4.jpg"
+        }
+      ]
+    },
+    { 
+      "name":"hamsi",
+      "id" : 3,
+      "title": "Eksteryer ve Landshaft dizayn",
+      "img":[
+        {
+          "img":"../img-2/Rectangle 45 (3).jpg"
+        },
+        {
+          "img":"../img-2/img-5.jpg"
+        },
+        {
+          "img":"../img-2/img-6.jpg"
+        }
+      ]
+    },
+    { 
+      "name":"hamsi",
+      "id" : 4,
+      "title": "Eksteryer ve Landshaft dizayn",
+      "img":[
+        {
+          "img":"../img-2/Rectangle 46.jpg"
+        },
+        {
+          "img":"../img-2/img-7.jpg"
+        },
+        {
+          "img":"../img-2/img-8.jpg"
+        }
+      ]
+    },
+    { 
+      "name":"hamsi",
+      "id" : 5,
+      "title": "Ticarət Obyektlərinin dizaynı",
+      "img":[
+        {
+          "img":"../img-2/Rectangle 47.jpg"
+        },
+        {
+          "img":"../img-2/img-9.jpg"
+        },
+        {
+          "img":"../img-2/img-10.jpg"
+        }
+      ]
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id" : 6,
+      "title": "Ticarət Obyektlərinin dizaynı",
+      "img":[
+        {
+          "img":"../img-2/Rectangle 48.jpg"
+        },
+        {
+          "img":"../img-2/img-11.jpg"
+        },
+        {
+          "img":"../img-2/img-12.jpg"
+        }
+      ]
+    },
+    { 
+      "name":"hamsi",
+      "id" : 7,
+      "title": "Ticarət Obyektlərinin dizaynı",
+      "img":[
+        {
+          "img":"../img-2/Rectangle 49.jpg"
+        },
+        {
+          "img":"../img-2/img-13.jpg"
+        },
+        {
+          "img":"../img-2/img-14.jpg"
+        }
+      ]
+    },
+    { 
+      "name":"hamsi",
+      "id" : 8,
+      "title": "Layihələndirmə",
+      "img":[
+        {
+          "img":"../img-2/Rectangle 50.jpg"
+        },
+        {
+          "img":"../img-2/img-15.jpg"
+        },
+        {
+          "img":"../img-2/img-16.jpg"
+        }
+      ]
+    },
+    { 
+      "name":"hamsi",
+      "id" : 9,
+      "title": "Layihələndirmə",
+      "img":[
+        {
+          "img":"../img-2/Rectangle 51.jpg"
+        },
+        {
+          "img":"../img-2/img-17.jpg"
+        },
+        {
+          "img":"../img-2/img-18.jpg"
+        }
+      ]
+    },
+    { 
+      "name":"hamsi",
+      "id" : 10,
+      "title": "Layihələndirmə",
+      "img":[
+        {
+          "img":"../img-2/Rectangle 52.jpg"
+        },
+        {
+          "img":"../img-2/img-19.jpg"
+        },
+        {
+          "img":"../img-2/img-20.jpg"
+        }
+      ]
+    },
+    { 
+      "name":"hamsi",
+      "id" : 11,
+      "title": "Layihələndirmə",
+      "img":[
+        {
+          "img":"../img-2/Rectangle 53.jpg"
+        },
+        {
+          "img":"../img-2/img-21.jpg"
+        },
+        {
+          "img":"../img-2/img-22.jpg"
+        }
+      ]
+    },
+    { 
+      "name":"hamsi",
+      "id" : 12,
+      "title": "Layihələndirmə",
+      "img":[
+        {
+          "img":"../img-2/Rectangle 54.jpg"
+        },
+        {
+          "img":"../img-2/img-23.jpg"
+        },
+        {
+          "img":"../img-2/img-24.jpg"
+        }
+      ]
     }
   ]
 }
