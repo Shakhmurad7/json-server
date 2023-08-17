@@ -1,16 +1,11 @@
 {
-  "name": "json-server-deploy",
+  "name": "json-server-vercel",
   "version": "1.0.0",
-  "description": "Simple json database to deploy to the host of your choice",
-  "main": "server.js",
+  "description": "Deploy JSON Server to Vercel",
+  "main": "api/server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node api/server.js"
   },
-  "keywords": [
-    "json-server,heroku, node, REST API"
-  ],
-  "author": "Jesper Orb",
-  "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.0"
   }
